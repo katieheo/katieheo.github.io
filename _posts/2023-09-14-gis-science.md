@@ -8,13 +8,13 @@ tags:
   - Science
 ---
 
-## GIS as a Science
+# GIS as a Science
 
 Science builds on previous theories, takes empirical data, is complex, and makes meaning out of discoveries. Whether GIS counts as "science" depends on one's perspective. I have been using GIS as a scientific tool to collect, manage, analyze, and visualize spatial data in my Human Geography with GIS class. GIS is often considered a scientific tool because it enables the rigorous analysis of spatial data, which is a fundamental aspect of many scientific disciplines. However, the perception of GIS as a science itself, like physics or biology, may vary. Some view it as a tool applied within the context of various scientific fields, while others see it as a science that continuously evolves with its own set of theories and methodologies. 
 
 So far, I used GIS as an applied science by addressing practical, real-world problems by applying GIS knowledge and tools to solve spatial issues. Although I use GIS as a tool, I do see it as a scientific discipline.
 
-## Themes of GIS Discourse
+# Themes of GIS Discourse
 
 The theme of singular technology and progressing along a linear path highlights the idea that GIS is a single, unified technology that follows a linear path of development and advancement. In reality, GIS encompasses a wide range of tools, software, and methods, and it did not necessarily follow a linear progression. So far, I have not felt like any of my instructors made these arguments necessarily. I think that this perception of singularity can oversimplify the complexity of GIS and may lead to misunderstandings about its capabilities.
 
