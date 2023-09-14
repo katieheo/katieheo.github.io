@@ -22,4 +22,4 @@ GIS being inherently expansive and growing worries me as the technology may beco
 
 This topic reminded me of the conversation my dad and I had this summer about what GIS is as I consider pursuing further studies in it. He wondered how effective GIS is depending on the different problems being addressed and the quality of the data available. To that, I told him that what I have learned so far is that GIS is a versatile tool that would be useful to know but should be used in consideration of its appropriate application to specific contexts.
 
-Find more information about the class I am taking [here](https://opengisci.github.io)!
+Find more information about the class I am taking [**here**](https://opengisci.github.io)!
