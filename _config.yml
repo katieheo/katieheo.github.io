@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Katie Heo"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I am a junior majoring in Environmental Justice and Geography at Middlebury College. This is my portfolio of GIScience work."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
