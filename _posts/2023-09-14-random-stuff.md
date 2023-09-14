@@ -15,9 +15,12 @@ Here is an image: ![github logo](/assets/images/Github-Mark.png)
 | centered | not centered | 
 | more content to show centering | not so much |
 
-| Reject | Accept |
+| | Reject | Accept |
 | : ------------:| -------|
 | not true | no error | type I |
 | true | type II | no error |
+
+
+Link to [another post](https://)
 
 Find more information about the class I am taking [here](https://opengisci.github.io)
