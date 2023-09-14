@@ -11,6 +11,6 @@ The theme of singular technology and progressing along a linear path highlights 
 
 GIS being inherently expansive and growing worries me as the technology may become overly complex or resource-intensive. What is good about this is that GIS promotes the need for critical thinking and the need to acknowledge its diverse applications and the complexities involved. At the end of the day, GIS is a versatile tool with broad applications.
 
-This topic reminded me of the conversation my dad and I had this summer about what GIS is as I consider pursuing further studies in it. He wondered how effective GIS is depending on the different problems being addressed and the quality of the data available. To that, I told him that what I have learned so far is that GIS is a versatile tool that would be useful to know but should be used in consideration of its appropriate application to specific contexts.
+This topic reminded me of the conversation my dad and I had about what GIS is as I consider pursuing further studies in it. He wondered how effective GIS is depending on the different problems being addressed and the quality of the data available. To that, I told him that what I have learned so far is that GIS is a versatile tool that would be useful to know but should be used in consideration of its appropriate application to specific contexts.
 
 Find more information about the class I am taking [**here**](https://opengisci.github.io)!
