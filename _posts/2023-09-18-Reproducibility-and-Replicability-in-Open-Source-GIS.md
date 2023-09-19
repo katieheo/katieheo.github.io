@@ -11,7 +11,9 @@ tags:
 **To what extent does open-source GIS help solve the problems of the reproducibility crisis for geography? How?**
 
 Recap: 
+
 •	Free software: freely available source code that is a necessity for the innovation and progress of the field (Rey 2009)
+
 •	Open source software: free software but free of the misconception that free software is of inferior quality and not fit for corporate use (ibid)
 
 Open-source GIS plays a significant role in addressing some of the problems related to the reproducibility crisis in geography, as discussed in both the National Academies Press (NASEM) report on Reproducibility and Replicability in Science and Show Me the Code, Sergio Rey’s article on spatial analysis and open source. 
