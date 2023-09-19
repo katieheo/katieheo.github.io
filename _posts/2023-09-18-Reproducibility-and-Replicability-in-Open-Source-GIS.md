@@ -53,7 +53,7 @@ These aspects align with the principles of reproducibility and replicability and
 
 In his article, Sergio Rey discusses how open-source GIS has several advantages, including community collaboration, user-led innovation, and accessibility, but there are still some problems related to reproducibility and replicability in geography that it may not fully address.
 
-*Technological Elitism*: The developer-centric nature of open-source projects may exclude those without programming skills, fostering technological elitism.
+*Technological Elitism*: The developer-centric nature of open-source projects may exclude those without programming skills, fostering technological elitism. This may also lead to path dependency in knowledge, where some researchers just use one kind of software because it is all they know how to use. I am currently dealing with this problem - I only know how to use open-source GIS software (QGIS) as I cannot afford one with a paywall like ArcGIS. 
 
 *Interface Design*: Program interfaces may be designed primarily for engineers and developers, making them less user-friendly.
 
