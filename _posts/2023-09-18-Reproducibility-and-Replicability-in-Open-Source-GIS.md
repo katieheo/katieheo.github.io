@@ -42,7 +42,7 @@ Here's how **open-source GIS** helps tackle these issues:
 
 *Reducing Cost Barriers*: Open-source GIS software is typically available at no cost, which helps reduce barriers to access for researchers and students. An example of this is QGIS, which I have been using since my introduction to human geography with GIS. As someone with limited resources, I was able to step foot into the world of GIS and engage in and contribute to reproducible research in geography. Hence, this affordability aspect aligns with the broader reproducibility goals of making research accessible to a wider audience. 
 
-*Flexibility and Customization*: Open-source GIS tools are often highly customizable, allowing researchers to tailor their analyses to specific research questions or geographic contexts. This flexibility enables researchers to adapt and reproduce analyses in different settings, contributing to the replicability of findings across various geographic regions or studies.
+*Flexibility and Customization*: Open-source GIS tools are often highly customizable, allowing researchers to tailor their analyses to specific research questions or geographic contexts. This malleability enables researchers to adapt and reproduce analyses in different settings, contributing to the replicability of findings across various geographic regions or studies. The tool should not determine one's research design because the tool is flexible and one can implement different things with it.
 
 These aspects align with the principles of reproducibility and replicability and help ensure that geographic research can be more transparent, accessible, and verifiable. This kind of environment not only works in open science but also in the **liberal arts education** that emphasizes critical thinking, interdisciplinary exploration, and ethical engagement. The community I live in provides me with valuable skills and a mindset for addressing complex, real-world issues.
 
@@ -62,6 +62,7 @@ In his article, Sergio Rey discusses how open-source GIS has several advantages,
 *Rapid Evolution*: Open-source projects can change rapidly, making it challenging to create course curricula around a moving target or conduct long-term research projects that rely on specific software versions. 
 
 *Forks*: Occasionally, open-source projects undergo "forks" where developers split off to start independent projects, potentially causing issues for projects that relied on the original software.
+
 
 --------
 
