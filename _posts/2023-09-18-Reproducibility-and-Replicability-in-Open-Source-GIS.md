@@ -14,9 +14,9 @@ Before diving into the question, we need to define some terms:
 
 1. Reproducibility vs Replicability
 
-•	Reproducibility: Refers to the ability of a second researcher to obtain consistent results using the same input data, computational steps, methods, and code, as well as conditions of analysis. It emphasizes transparency and the availability of data and code to enable the verification of results (NASEM 2019)
+•	Reproducibility: Obtaining consistent results using the same input data, computational steps, methods and code, and conditions of analysis (NASEM 2019)
 
-•	Replicability: Pertains to the consistency of results across different studies aimed at answering the same scientific question, each of which has its own data. Replicability considers the degree of consistency of results obtained from multiple studies conducted to address the same research question, acknowledging that there may be variations due to measurement precision and methodological differences (NASEM 2019)
+•	Replicability: Obtaining consistent results across studies aimed at answering the same scientific question, each of which has obtained its own data (NASEM 2019)
 
 2. Open-Source and Free Software: What is Freedom?
 
