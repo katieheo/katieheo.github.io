@@ -26,13 +26,11 @@ Here's how **open-source GIS** helps tackle these issues:
 
 *Collaboration*: Open-source GIS fosters a collaborative environment where researchers can work together to improve and refine spatial analysis methods. This collaborative aspect is crucial for addressing reproducibility challenges, as it allows for the identification and correction of errors or inconsistencies in analyses. A community of users and developers can collectively enhance the reliability and reproducibility of spatial research.
 
-*Reducing Cost Barriers*: Open-source GIS software is typically available at no cost, which helps reduce barriers to access for researchers and students. This affordability aspect aligns with the broader reproducibility goals of making research accessible to a wider audience. It ensures that individuals and organizations with limited resources can still engage in and contribute to reproducible research in geography.
+*Reducing Cost Barriers*: Open-source GIS software is typically available at no cost, which helps reduce barriers to access for researchers and students. An example of this is QGIS, which I have been using since introduction to human geography with GIS. As someone with limited resources, I was able to step foot into the world of GIS and engage in and contribute to reproducible research in geography. Hence, this affordability aspect aligns with the broader reproducibility goals of making research accessible to a wider audience. 
 
 *Flexibility and Customization*: Open-source GIS tools are often highly customizable, allowing researchers to tailor their analyses to specific research questions or geographic contexts. This flexibility enables researchers to adapt and reproduce analyses in different settings, contributing to the replicability of findings across various geographic regions or studies.
 
-
-Open-source GIS plays a crucial role in addressing the challenges of reproducibility in geography by promoting transparency, sharing code and data, fostering collaboration, reducing cost barriers, and providing flexibility for customization. These aspects align with the principles of reproducibility and replicability, as discussed in the two articles, and help ensure that geographic research can be more transparent, accessible, and verifiable.
-
-
+These aspects align with the principles of reproducibility and replicability, as discussed in the two articles, and help ensure that geographic research can be more transparent, accessible, and verifiable.
 
 **Are there problems with reproducibility and replicability in geography that open-source GIS cannot help solve?**
+
