@@ -14,12 +14,13 @@ I will be working on ...
 This is important as currently, the rationale is positioned before the discussion. It is more sensical for the rationale to be at the end of a study as its purpose is to convince the readers of the necessity and importance of the research.
 
 3. Improving the formatting of the missing data table
+The formatting of the missing data table is necessary to better reading and understanding of the study. The data table is currently extending to outside of the page so transposing the variables to create a vertical table might be a method to fix this problem. 
 
-4. Integrating discussions
+5. Integrating discussions
 
-5. Separate a conclusions section from the discussion that concludes whether the reproduction attempt was successful, and what the implications are for how the original study contributes to scientific knowledge.
+6. Separate a conclusions section from the discussion that concludes whether the reproduction attempt was successful, and what the implications are for how the original study contributes to scientific knowledge.
 
-6. The four different versions of the final chloropleth map (ethnicity, poverty status, age, and biological sex) to see the pattern of similarities and differences in their GEE model maps versus the Race Model Weights. This will help the readers see if the Race Model Weights is a representative map of all five maps. 
+7. The four different versions of the final chloropleth map (ethnicity, poverty status, age, and biological sex) to see the pattern of similarities and differences in their GEE model maps versus the Race Model Weights. This will help the readers see if the Race Model Weights is a representative map of all five maps. 
 
  
 
