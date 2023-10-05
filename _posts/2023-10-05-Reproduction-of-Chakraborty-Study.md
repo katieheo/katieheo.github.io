@@ -9,4 +9,4 @@ tags:
   - Open Source
 ---
 
-Find more about the study [**here**](https://katieheo.github.io/RPr-Chakraborty-2021/)
+Find more about the study [**here**](https://katieheo.github.io/RPr-Chakraborty-2021/)!
