@@ -82,7 +82,7 @@ Open-source GIS can lower licensing costs, provide flexibility for custom soluti
 
 While open-source GIS is a powerful tool for improving reproducibility and replicability in geography and offers valuable opportunities for learning, it does not eliminate all challenges. However, open-source GIS serves as a foundation for transparency and collaboration, fostering a culture of reproducibility and openness within the geographic research community. I believe that it is essential to recognize the value of open-source GIS while acknowledging its limitations and working toward addressing these challenges for the benefit of reproducibility and replicability in geography.
 
-Find more information about the class I am taking [**here**](https://opengisci.github.io)!
+*Find more information about the class I am taking [**here**](https://opengisci.github.io)!*
 
 --------
 
