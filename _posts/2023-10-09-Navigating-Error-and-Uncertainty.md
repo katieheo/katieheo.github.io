@@ -15,7 +15,7 @@ The first stage involves uncertainties in the conception of the geographic pheno
 
 My GIS project on environmental injustice in Harris County, Texas for my GEOG0120 class required me to analyze the impact of Hurricane Harvey on flooding and toxic releases in the region. This required dealing with incomplete data as we explored majority groups Asian, Black, Latinx, Mixed, and White. There was a lack of representation for the Asian majority group that experienced flooded buildings that were in the FEMA zone as there were only 3 Asian block groups whereas other block groups ranged from 175 to 864. This meant that we could not include Asian representation in our conclusion about the affected majority groups in Harris County. 
 
-*Find more about the project [here](/assets/TXproject_Heo.pdf)!*
+*Find more about the project [here](/assets/TXProject_Heo.pdf)!*
 
 Uncertainty is a constant companion in spatial research. The project presented the limitations of FEMA preliminary flood hazard data and how the uncertainty leads to more harshly affected communities. FEMA was not able to predict flooding for a large part of areas that Latinx and mixed communities currently live in which were affected the most. FEMA’s data for predicting flood in Harris County was unreliable as the predictions are based on historical flooding and development. Predictive models as such are easily outdated as the world constantly changes. The project demonstrates the complexities of real-world phenomena, especially in estimating flood risk, unpredictable climate change, and rising sea levels. 
 
