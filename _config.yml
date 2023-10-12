@@ -60,9 +60,9 @@ author:
   avatar : "/assets/images/profile-pic.jpeg"
   bio    : "I am a junior majoring in Environmental Justice and Geography at Middlebury College. This is my portfolio of GIScience work."
   links:
-    - label: "Website"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://www.linkedin.com/in/katieheo/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
