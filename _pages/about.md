@@ -9,4 +9,4 @@ My experiences include corporate communications and organizational portfolio dev
 
 I am passionate about cooking Korean food (*I make the best kimchi-jjigae*), sustainability, and environmental storytelling. 
 
-You can find my [resume]("/assets/files/Resume_KH.docx") here. Please reach me at jheo@middlebury.edu.
+You can find my [resume](/assets/files/Resume_KH.docx) here. Please reach me at jheo@middlebury.edu.
