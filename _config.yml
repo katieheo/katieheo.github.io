@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Katie Heo"
   avatar : "/assets/images/profile-pic.jpeg"
-  bio    : "I am a junior majoring in Environmental Justice and Geography at Middlebury College. This is my portfolio of GIScience work."
+  bio    : "I am a penultimate year student at Middlebury College, where I am studying Environmental Justice and Geography. This is my portfolio of GIScience work."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
