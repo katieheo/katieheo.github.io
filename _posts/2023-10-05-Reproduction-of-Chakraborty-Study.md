@@ -2,7 +2,7 @@
 title: "Reproduction of Chakraborty Study 2021"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
+  - Study
 tags:
   - GIS
   - Science
