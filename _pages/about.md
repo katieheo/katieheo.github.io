@@ -9,4 +9,4 @@ My experiences include corporate communications and organizational portfolio dev
 
 My interests are environmental storytelling, data visualization, graphic design, and media marketing. I am passionate about cooking Korean food (*I make the best kimchi-jjigae*) and having Asian desserts (*my favorites include jasmine tea, mango sticky rice, and coconut coffee*).
 
-You can find my [**resume**](/assets/files/Resume_KH.pdf) here. Please reach me at jheo@middlebury.edu.
+You can find my [**resume**](/assets/files/Resume_KH.pdf) here and reach me at jheo@middlebury.edu.
