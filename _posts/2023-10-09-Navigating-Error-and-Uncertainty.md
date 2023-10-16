@@ -16,7 +16,7 @@ Longley et al. identify three primary sources of uncertainty in the research pro
 
 My GIS project on environmental injustice in Harris County, Texas for my GEOG0120 class required me to analyze the impact of Hurricane Harvey on flooding and toxic releases in the region. This required dealing with incomplete data as we explored majority groups Asian, Black, Latinx, Mixed, and White. There was a lack of representation for the Asian majority group that experienced flooded buildings that were in the FEMA zone as there were only 3 Asian block groups whereas other block groups ranged from 175 to 864. This meant that we could not include Asian representation in our conclusion about the affected majority groups in Harris County. 
 
-*Read more about my analysis in [**my visual essay**](/assets/files/TXProject_Heo.pdf)!*
+*Read more about my analysis in [**my visual essay**](/assets/files/TXProject_Heo.pdf).*
 
 Uncertainty is a constant companion in spatial research. The project presented the limitations of FEMA preliminary flood hazard data and how the uncertainty leads to more harshly affected communities. FEMA was not able to predict flooding for a large part of areas that Latinx and mixed communities currently live in which were affected the most. FEMA’s data for predicting flood in Harris County was unreliable as the predictions are based on historical flooding and development. Predictive models as such are easily outdated as the world constantly changes. The project demonstrates the complexities of real-world phenomena, especially in estimating flood risk, unpredictable climate change, and rising sea levels. 
 
@@ -28,7 +28,7 @@ Some steps that can be taken to mitigate the problem of uncertainty are ensuring
 
 In conclusion, data should not be regarded as absolute truth especially today when there is an abundance of data available. The data’s quality should be questioned and considered before use. Uncertainty is a ubiquitous challenge in geographic research that cannot be eliminated entirely, and geographers play a pivotal role in addressing it ethically and rigorously. By adopting transparency, robust methodologies, and ethical considerations, geographers can contribute to more reliable and responsible geographic information systems and science. This aligns with the evolving landscape of GIScience, as underscored by Tullis and Kar's call for ethical replicability and reproducibility in critical applications.
 
-*Find more information about the class I am taking [**here**](https://opengisci.github.io)!*
+*Find more information about the class I am taking [**here**](https://opengisci.github.io).*
 
 --------
 Bibliography
