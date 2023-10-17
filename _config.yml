@@ -67,6 +67,18 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/katieheo"
 
+footer:
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/katieheo/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/katieheo"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
+      
 defaults:
   # _posts
   - scope:
