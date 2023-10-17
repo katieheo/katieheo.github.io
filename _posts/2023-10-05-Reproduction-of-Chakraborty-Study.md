@@ -15,4 +15,4 @@ In the context of reanalyzing the data using Generalized Estimating Equations (G
 
 Our study, though revealing some deviations, align with the original study's central conclusion that people with disabilities, particularly those who are socio-demographically disadvantaged, may face heightened risks in the context of COVID-19. However, we emphasize the need for additional research, finer spatial analysis, and a deeper exploration of the intricacies surrounding this complex issue. Our study is a valuable teaching resource that would enable students and researchers to learn about the nuances of reproducibility in scientific research, the challenges of working with spatial data, and the importance of critical analysis in epidemiology.
 
-Find more about our reproduction and reanalysis study <w style="color:blue;">[**here**](https://katieheo.github.io/RPr-Chakraborty-2021/)</w>!
+Find more about our reproduction and reanalysis study <w style="color:blue;">[here](https://katieheo.github.io/RPr-Chakraborty-2021/)</w>!
