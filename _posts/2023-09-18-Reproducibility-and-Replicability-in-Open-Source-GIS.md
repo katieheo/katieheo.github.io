@@ -44,14 +44,14 @@ Here's how **open-source GIS** helps tackle these issues:
 
 *Flexibility and Customization*: Open-source GIS tools are often highly customizable, allowing researchers to tailor their analyses to specific research questions or geographic contexts. This malleability enables researchers to adapt and reproduce analyses in different settings, contributing to the replicability of findings across various geographic regions or studies. The tool should not determine one's research design because the tool is flexible and one can implement different things with it.
 
-These aspects align with the principles of reproducibility and replicability and help ensure that geographic research can be more transparent, accessible, and verifiable. This kind of environment not only works in open science but also in the **liberal arts education** that emphasizes critical thinking, interdisciplinary exploration, and ethical engagement. The community I live in provides me with valuable skills and a mindset for addressing complex, real-world issues.
+These aspects align with the **principles of reproducibility and replicability** and help ensure that geographic research can be more transparent, accessible, and verifiable. This kind of environment not only works in open science but also in the **liberal arts education** that emphasizes critical thinking, interdisciplinary exploration, and ethical engagement. The community I live in provides me with valuable skills and a mindset for addressing complex, real-world issues.
 
 
 ----------
 
 ### Are there problems with reproducibility and replicability in geography that open-source GIS cannot help solve?
 
-In his article, Sergio Rey discusses how open-source GIS has several advantages, including community collaboration, user-led innovation, and accessibility, but there are still some problems related to reproducibility and replicability in geography that it may not fully address.
+In his article, Sergio Rey discusses how open-source GIS has several advantages, including **community collaboration, user-led innovation, and accessibility**, but there are still some problems related to reproducibility and replicability in geography that it may not fully address.
 
 *Technological Elitism*: The developer-centric nature of open-source projects may exclude those without programming skills, fostering technological elitism. This may also lead to path dependency in knowledge, where some researchers just use one kind of software because it is all they know how to use. This is something I hope does not happen to me - currently, I only know how to use open-source GIS software (QGIS) as I cannot afford one with a paywall like ArcGIS. 
 
