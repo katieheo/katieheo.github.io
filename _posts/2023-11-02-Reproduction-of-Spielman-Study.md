@@ -1,5 +1,5 @@
 ---
-title: "Reproduction of Spielman Study 2020"
+title: "Reproduction of Spielman et al. Study 2020"
 excerpt_separator: "<!--more-->"
 categories:
   - Study
@@ -9,7 +9,7 @@ tags:
   - Open Source
 ---
 
-In our reproduction and reanalysis study of ["NAME OF STUDY."](https://www.sciencedirect.com/science/article/pii/S1936657420301394?ref=pdf_download&fr=RR-2&rr=8112c85ec9324204) by Jayajit Chakraborty, we contribute to a more comprehensive understanding of the interplay between **disability, socio-demographics**, and **COVID-19**, while also highlighting the importance of rigorous reproducibility in scientific inquiry. In our study, we encountered both similarities and deviations from the original findings. While some deviations can be attributed to differences in computational environments, we leveraged these variations to scrutinize the research design critically, assess internal validity, and test the robustness of key parameters.
+In our reproduction and reanalysis study of ["Evaluating social vulnerability indicators: criteria and their application to the Social Vulnerability Index"](https://link.springer.com/article/10.1007/s11069-019-03820-z) by Seth E. Spielman et al., we contribute to a more comprehensive understanding of the interplay between **disability, socio-demographics**, and **COVID-19**, while also highlighting the importance of rigorous reproducibility in scientific inquiry. In our study, we encountered both similarities and deviations from the original findings. While some deviations can be attributed to differences in computational environments, we leveraged these variations to scrutinize the research design critically, assess internal validity, and test the robustness of key parameters.
 
 In the context of reanalyzing the data using <w style="color:blue;">Generalized Estimating Equations (GEE)</w>, we found that while some variables exhibited consistency in their relationships, others displayed instability across different models, warranting further investigation. Our work underscores the necessity of **cautious interpretation**, considering the limitations, including ecological fallacy, scale dependency, modifiable areal unit problem, variable measurement, and spatial dependency.
 
