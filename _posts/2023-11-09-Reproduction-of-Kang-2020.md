@@ -1,4 +1,4 @@
-
+---
 title: "Reproduction of Kang et al. Study 2020"
 excerpt_separator: "<!--more-->"
 categories:
