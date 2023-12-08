@@ -1,5 +1,5 @@
 ---
-title: "Reanalysis of Malcomb Study 2014"
+title: "Reanalyzing Vulnerability in Malcomb's 2014 Study"
 excerpt_separator: "<!--more-->"
 categories:
   - Study
