@@ -1,5 +1,5 @@
 ---
-title: "Spatial Accessibility Analysis of Chicago, Illinois"
+title: "Reproducing a Study on Spatial Accessibility in Chicago, Illinois"
 excerpt_separator: "<!--more-->"
 categories:
   - Study
