@@ -1,5 +1,5 @@
 ---
-title: "Reproduction of Kang et al. Study 2020"
+title: "Spatial Accessibility Analysis of Chicago, Illinois"
 excerpt_separator: "<!--more-->"
 categories:
   - Study
@@ -22,4 +22,10 @@ Finally, through a critical reading of the original study and collaborative disc
 
 Our contributions to the reproductive study of Kang et al.'s research not only refined the methodology but also demonstrated the importance of addressing potential threats to validity in spatial accessibility studies during a pandemic.
 
+Here are the links to.. 
+[My research compendium](https://github.com/katieheo/RPr-Kang-2020)
+[The original study by Kang et al.](https://ij-healthgeographics.biomedcentral.com/articles/10.1186/s12942-020-00229-x)
+[Our reproduction study of Kang et al.](https://katieheo.github.io/RPr-Kang-2020/)
+
 *Find more information about the class I am taking [**here**](https://opengisci.github.io)!*
+
