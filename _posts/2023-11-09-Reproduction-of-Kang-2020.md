@@ -14,7 +14,7 @@ We enhanced the original study's methodology by using the osmnx.speed module to 
 
 The study initially used a 50% threshold method for hexagonal grid allocation, leading to potential exaggeration or minimization of the influence of overlapping catchment areas. To address this, we utilized Area Weighted Re-Aggregation (AWR), allocating accessibility scores based on the percentage of hexagon area overlap with catchment areas. This alternative analysis, conducted specifically for Chicago, revealed nuanced changes, showing slightly lower rates of hospital accessibility in northern and western Chicago and slightly higher rates in the central city.
 
-Recognizing potential inaccuracies in the original study, we focused on reducing data generalizations. Our **modification of the speed limit data** and the **implementation of AWR** aimed to enhance the accuracy of the spatial accessibility results, particularly for the at-risk population over 50.
+Alana Lutz and Elise Chan worked on improving the speed module while Isaiah Bennett and I worked on the Area Weighted Re-Aggregation. Recognizing potential inaccuracies in the original study, we focused on reducing data generalizations. Our **modification of the speed limit data** and the **implementation of AWR** aimed to enhance the accuracy of the spatial accessibility results, particularly for the at-risk population over 50.
 
 For this reproduction study, our class ventured into the realm of CyberGIS by connecting to the cybergisx environment provided by the University of Illinois at Urbana-Champaign. This was the first time we ran a computationally intensive study on supercomputers, which showcased advancements in open, reproducible research and group collaboration.
 
