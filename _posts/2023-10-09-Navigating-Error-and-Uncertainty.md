@@ -28,7 +28,7 @@ Some steps that can be taken to mitigate the problem of uncertainty are ensuring
 
 In conclusion, data should not be regarded as absolute truth especially today when there is an abundance of data available. The data’s quality should be questioned and considered before use. Uncertainty is a ubiquitous challenge in geographic research that cannot be eliminated entirely, and geographers play a pivotal role in addressing it ethically and rigorously. By adopting transparency, robust methodologies, and ethical considerations, geographers can contribute to more reliable and responsible geographic information systems and science. This aligns with the evolving landscape of GIScience, as underscored by Tullis and Kar's call for ethical replicability and reproducibility in critical applications.
 
-*Find more information about the class I am taking [**here**](https://opengisci.github.io).*
+*Find more information about the class I am taking [**here**](https://opengisci.github.io)!*
 
 --------
 Bibliography
