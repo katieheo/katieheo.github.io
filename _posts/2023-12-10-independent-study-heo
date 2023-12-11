@@ -1,0 +1,12 @@
+---
+title: "Reproducing Vijayan et al.'s 2020 Study"
+excerpt_separator: "<!--more-->"
+categories:
+  - Study
+tags:
+  - GIS
+  - Science
+  - Open Source
+---
+
+In our study of ["Beyond the 405 and the 5: Geographic Variations and Factors Associated With Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Positivity Rates in Los Angeles County"](https://pubmed.ncbi.nlm.nih.gov/33141164/) by Tara Vijayan et al., we aimed to reproduce and evaluate the ... . Vijayan et al. originally sought to .... . They conducted their study by ... , and we attempted to reproduce their results. 
