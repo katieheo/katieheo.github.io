@@ -9,16 +9,43 @@ tags:
   - Open Source
 ---
 
-In our study of ["Beyond the 405 and the 5: Geographic Variations and Factors Associated With Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Positivity Rates in Los Angeles County"](https://pubmed.ncbi.nlm.nih.gov/33141164/) by Tara Vijayan et al., we aimed to reproduce and evaluate the ... . Vijayan et al. originally sought to .... . They conducted their study by ... , and we attempted to reproduce their results. 
+In our study of ["Beyond the 405 and the 5: Geographic Variations and Factors Associated With Severe Acute Respiratory Syndrome 
+Coronavirus 2 (SARS-CoV-2) Positivity Rates in Los Angeles County"](https://pubmed.ncbi.nlm.nih.gov/33141164/) by Tara Vijayan et al., 
+[Alex](https://alexxuyide.github.io) and I aimed to reproduce and evaluate the ... . Vijayan et al. originally sought to .... . They conducted their study by ... , and we 
+attempted to reproduce their results. 
+
+In looking at the hexagonal grid to overlay COVID data, we observed threats to validity in the boundary effect, also known as 
+the edge effect in the holes observed in between the hexagons that present census tracts in Los Angeles county. As Rolf R. Schmitt 
+outlined in **Threats to Validity involving Geographic Space**, some issues that arose that we tried to resolve in our reproduction study
+was partition distortion. 
+
+The choice of a hexagonal grid as the spatial unit of analysis introduced the risk of the Modifiable Areal Unit Problem. 
+This problem arises when the results of an analysis are dependent on the arbitrary choice of spatial units. In this case, 
+aggregating data into hexagons masked important variations at a finer spatial scale and introduce distortion in the observed
+relationships. Hence, we recreated the hexagonal layer to get rid of the gaps. 
+
+Another issue we struggled with was assumptions in data translation to hexagonal grid, as Vijayan et al. did not provide sufficient 
+details on how the translation from original geographic units (tract, city, and county levels) to the hexagonal grid was performed. 
+The lack of clarity on how centroids were associated and whether multiple tracts, cities, or counties intersected the same 
+hexagonal unit introduced uncertainty and potential bias in the analysis.
+
+Standardization of Variables:
+The lack of clarity on whether the response variables were standardized in addition to the predictor variables raises concerns 
+about the proper interpretation of coefficients in the spatial regression models. The omission of the model intercept further 
+complicates the interpretation of results.
+
+Limited Sensitivity Analysis:
+The study does not appear to include a comprehensive sensitivity analysis to assess the robustness of results to variations in 
+the choice of hexagon size or other methodological decisions. This omission raises concerns about the stability of the reported 
+findings.
 
 
-In looking at the hexagonal grid to overlay COVID data, we observed threats to validity in the boundary effect, also known as the edge effect: the holes in between the hexagons. LA county – census tracts when getting around the hills at the edge of the city.
 
 
 
 Here are the links to.. 
 
-[My research compendium](https://github.com/katieheo/RPr-Kang-2020)
+[My research compendium](https://github.com/katieheo/Rpr-Vijayan-2023)
 
 [The original study by Kang et al.](https://ij-healthgeographics.biomedcentral.com/articles/10.1186/s12942-020-00229-x)
 
