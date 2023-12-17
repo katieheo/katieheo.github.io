@@ -1,5 +1,5 @@
 ---
-title: "Reproducing Vijayan et al.'s 2020 Study"
+title: "My Independent Project on Reproducing Vijayan et al.'s 2020 Study"
 excerpt_separator: "<!--more-->"
 categories:
   - Study
